@@ -1,0 +1,182 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.bubble_deploy"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml
+10
+11    <permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:4:5-75
+11-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:4:17-73
+12    <permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:5:5-74
+12-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:5:17-72
+13
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:6:5-80
+14-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:6:22-78
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:7:5-79
+15-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:7:22-77
+16    <uses-permission android:name="android.permission.WRITE_USER_DICTIONARY" />
+16-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:8:5-79
+16-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:8:22-77
+17    <uses-permission android:name="android.permission.READ_USER_DICTIONARY" />
+17-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:9:5-78
+17-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:9:22-76
+18
+19    <application
+19-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:11:5-105:19
+20        android:allowBackup="true"
+20-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:12:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.1.0] C:\Users\mcn\.gradle\caches\transforms-2\files-2.1\76f2b6439d16df60df3177021482ee5a\core-1.1.0\AndroidManifest.xml:24:18-86
+22        android:debuggable="true"
+23        android:icon="@drawable/appicon"
+23-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:13:9-41
+24        android:label="@string/app_name"
+24-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:14:9-41
+25        android:requestLegacyExternalStorage="true"
+25-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:18:9-52
+26        android:roundIcon="@mipmap/ic_launcher_round"
+26-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:15:9-54
+27        android:supportsRtl="true"
+27-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:16:9-35
+28        android:testOnly="true"
+29        android:theme="@style/AppTheme" >
+29-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:17:9-40
+30        <activity
+30-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:20:9-24:20
+31            android:name="com.example.bubble_deploy.mainActivity.MainActivity"
+31-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:21:13-79
+32            android:label="@string/app_name"
+32-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:22:13-45
+33            android:theme="@style/AppTheme.NoActionBar" >
+33-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:23:13-56
+34        </activity>
+35        <!-- 여기는 스플래시 액티비티입니당 -->
+36        <activity
+36-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:26:9-34:20
+37            android:name="com.example.bubble_deploy.mainActivity.SplashActivity"
+37-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:27:13-81
+38            android:screenOrientation="portrait"
+38-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:29:13-49
+39            android:theme="@style/SplashTheme" >
+39-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:28:13-47
+40            <intent-filter>
+40-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:30:13-33:29
+41                <action android:name="android.intent.action.MAIN" />
+41-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:31:17-69
+41-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:31:25-66
+42
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:32:17-77
+43-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:32:27-74
+44            </intent-filter>
+45        </activity>
+46        <!-- 여기까지 스플래시인데 오류가있다면 말해주세용 -->
+47
+48        <activity
+48-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:37:9-41:15
+49            android:name="com.example.bubble_deploy.mainActivity.BubblingPhotoActivity"
+49-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:38:13-88
+50            android:label="@string/photo"
+50-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:39:13-42
+51            android:theme="@style/AppTheme.NoActionBar" />
+51-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:40:13-56
+52        <activity
+52-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:42:9-46:15
+53            android:name="com.example.bubble_deploy.mainActivity.BubblingFolderActivity"
+53-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:43:13-89
+54            android:label="@string/folder"
+54-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:44:13-43
+55            android:theme="@style/AppTheme.NoActionBar" />
+55-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:45:13-56
+56        <activity
+56-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:47:9-51:15
+57            android:name="com.example.bubble_deploy.mainActivity.AllalbumActivity"
+57-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:48:13-83
+58            android:label="@string/allalbum"
+58-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:49:13-45
+59            android:theme="@style/AppTheme.NoActionBar" />
+59-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:50:13-56
+60        <activity
+60-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:52:9-56:15
+61            android:name="com.example.bubble_deploy.mainActivity.BubblingMemoActivity"
+61-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:53:13-87
+62            android:label="Memo"
+62-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:54:13-33
+63            android:theme="@style/AppTheme.NoActionBar" />
+63-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:55:13-56
+64        <activity
+64-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:58:9-62:15
+65            android:name="com.example.bubble_deploy.howtoUseActivity.HowtoUseActivity"
+65-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:59:13-87
+66            android:label="Howtouse"
+66-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:60:13-37
+67            android:theme="@style/AppTheme.NoActionBar" />
+67-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:61:13-56
+68        <activity
+68-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:63:9-67:15
+69            android:name="com.example.bubble_deploy.mainActivity.PhotoPopupActivity"
+69-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:64:13-85
+70            android:label="@string/photopopup"
+70-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:65:13-47
+71            android:theme="@style/AppTheme" />
+71-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:66:13-44
+72        <activity
+72-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:69:9-73:15
+73            android:name="com.example.bubble_deploy.howtoUseActivity.HowtoPhotoActivity"
+73-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:70:13-89
+74            android:label="HowtousePhoto"
+74-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:71:13-42
+75            android:theme="@style/AppTheme.NoActionBar" />
+75-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:72:13-56
+76        <activity
+76-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:75:9-79:15
+77            android:name="com.example.bubble_deploy.howtoUseActivity.HowtoGalleryActivity"
+77-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:76:13-91
+78            android:label="HowtouseGallery"
+78-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:77:13-44
+79            android:theme="@style/AppTheme.NoActionBar" />
+79-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:78:13-56
+80        <activity
+80-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:81:9-85:15
+81            android:name="com.example.bubble_deploy.howtoUseActivity.HowtoFolderActivity"
+81-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:82:13-90
+82            android:label="HowtouseFolder"
+82-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:83:13-43
+83            android:theme="@style/AppTheme.NoActionBar" />
+83-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:84:13-56
+84        <activity
+84-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:87:9-91:15
+85            android:name="com.example.bubble_deploy.howtoUseActivity.HowtoMemoActivity"
+85-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:88:13-88
+86            android:label="HowtouseMemo"
+86-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:89:13-41
+87            android:theme="@style/AppTheme.NoActionBar" />
+87-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:90:13-56
+88        <activity
+88-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:93:9-97:15
+89            android:name="com.example.bubble_deploy.howtoUseActivity.HowtoFaceActivity"
+89-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:94:13-88
+90            android:label="HowtouseFace"
+90-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:95:13-41
+91            android:theme="@style/AppTheme.NoActionBar" />
+91-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:96:13-56
+92        <activity
+92-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:99:9-103:15
+93            android:name="com.example.bubble_deploy.howtoUseActivity.HowtoInformationActivity"
+93-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:100:13-95
+94            android:label="HowtouseInformation"
+94-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:101:13-48
+95            android:theme="@style/AppTheme.NoActionBar" />
+95-->C:\Users\mcn\AndroidStudioProjects\Bubble_Deploy\app\src\main\AndroidManifest.xml:102:13-56
+96    </application>
+97
+98</manifest>

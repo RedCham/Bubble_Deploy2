@@ -1,0 +1,378 @@
+[
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_how_folder_main.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\how_folder_main.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\menu_photo_menu.xml.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\menu\\photo_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_how_information.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\how_information.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_how_gallery.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\how_gallery.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_how_photo_main.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\how_photo_main.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_folder.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\folder.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_how_gallery_main.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\how_gallery_main.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_how_information_main.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\how_information_main.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\xml_bottombar_tabs_memo1.xml.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\xml\\bottombar_tabs_memo1.xml"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\layout_how_to_use.xml.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\layout\\how_to_use.xml"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\xml_bottombar_tabs_photo1.xml.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\xml\\bottombar_tabs_photo1.xml"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\xml_bottombar_tabs_face1.xml.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\xml\\bottombar_tabs_face1.xml"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\xml_bottombar_tabs_folder1.xml.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\xml\\bottombar_tabs_folder1.xml"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bubbling.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\bubbling.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_how_graback.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\how_graback.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_act.xml.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\button_act.xml"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bubblingmemo.xml.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\layout\\activity_bubblingmemo.xml"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bubblingfolder.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\bubblingfolder.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_how_memo.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\how_memo.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\layout_howtoface.xml.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\layout\\howtoface.xml"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_how_face_main.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\how_face_main.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_howtouse.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\howtouse.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\layout_grid_image_area.xml.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\layout\\grid_image_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bubblingmemo.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\bubblingmemo.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bubblingphoto.xml.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\layout\\activity_bubblingphoto.xml"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_folderimg.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable-v24\\folderimg.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_how_folder.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\how_folder.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\layout_recyclerview_item_sidebar.xml.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\layout\\recyclerview_item_sidebar.xml"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sidefolder.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\sidefolder.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_memo.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\memo.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_next.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\next.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_transparent_back.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\transparent_back.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grabg.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\grabg.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_how_back.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\how_back.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\layout_howtomemo.xml.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\layout\\howtomemo.xml"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\layout_howtoinformation.xml.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\layout\\howtoinformation.xml"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\font_font.xml.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\font\\font.xml"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bubblingface.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\bubblingface.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_allalbum.xml.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\layout\\activity_allalbum.xml"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\layout_howtofolder.xml.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\layout\\howtofolder.xml"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_appicon.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\appicon.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_how_memo_main.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\how_memo_main.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_face.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\face.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_how_face.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\how_face.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_photo.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable-v24\\photo.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_rounded.xml.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\custom_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_photo_pop.xml.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\layout\\activity_photo_pop.xml"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_all.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\all.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\layout_howtophoto.xml.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\layout\\howtophoto.xml"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_how_title.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\how_title.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_bubblingface.xml.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\layout\\dialog_bubblingface.xml"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\xml_bottombar_tabs.xml.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\xml\\bottombar_tabs.xml"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_photo2.jpeg.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable-v24\\photo2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_close.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\close.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\layout_progressbaar_bubblingface.xml.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\layout\\progressbaar_bubblingface.xml"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\layout_recyclerview_item_gridimage.xml.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\layout\\recyclerview_item_gridimage.xml"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gallery.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\gallery.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bubblingfolder.xml.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\layout\\activity_bubblingfolder.xml"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_reset.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\reset.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\layout_rotate_anim.xml.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\layout\\rotate_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\layout_memopopup.xml.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\layout\\memopopup.xml"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main_back.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\main_back.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_up.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\up.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\layout_gallery_toolbar.xml.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\layout\\gallery_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_how_photo.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\how_photo.png"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\font_lottemart.ttf.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\font\\lottemart.ttf"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\layout_howtogallery.xml.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\layout\\howtogallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bubblingface.xml.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\layout\\activity_bubblingface.xml"
+    },
+    {
+        "merged": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bubblingphoto.png.flat",
+        "source": "C:\\Users\\mcn\\AndroidStudioProjects\\Bubble_Deploy\\app\\src\\main\\res\\drawable\\bubblingphoto.png"
+    }
+]

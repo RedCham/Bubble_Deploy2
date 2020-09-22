@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".mainActivity.MainActivity">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="#D9E7F6"
+            android:gravity="start"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+            app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+        </androidx.appcompat.widget.Toolbar>
+
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <LinearLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/grabg"
+        android:orientation="vertical">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?attr/colorPrimary"
+            android:minHeight="?attr/actionBarSize"
+            android:theme="?attr/actionBarTheme" />
+        <!--
+                <Button
+                    android:id="@+id/app_close"
+                    android:layout_width="match_parent"
+                    android:layout_height="43dp"
+                    android:layout_marginTop="50px"
+                    android:background="@drawable/home_close" />
+        !-->
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="165dp"
+            android:layout_marginTop="50px"
+            app:srcCompat="@drawable/up" />
+
+        <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent">
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50px">
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <Button
+                    android:id="@+id/allAlbum"
+                    android:layout_width="226dp"
+                    android:layout_height="158dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/gallery" />
+
+                <Button
+                    android:id="@+id/bubblingPhoto"
+                    android:layout_width="226dp"
+                    android:layout_height="158dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/all"
+                    android:scaleType="centerInside" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <Button
+                    android:id="@+id/bubblingFolder"
+                    android:layout_width="226dp"
+                    android:layout_height="158dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/folder" />
+
+                <Button
+                    android:id="@+id/bubblingMemo"
+                    android:layout_width="226dp"
+                    android:layout_height="158dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/memo" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+
+                <Button
+                    android:id="@+id/bubblingFace"
+                    android:layout_width="226dp"
+                    android:layout_height="158dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/face" />
+
+                <Button
+                    android:id="@+id/howtouse"
+                    android:layout_width="226dp"
+                    android:layout_height="158dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/howtouse" />
+
+            </TableRow>
+        </TableLayout>
+        </ScrollView>
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/linearLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center">
+
+            <androidx.constraintlayout.widget.Barrier
+                android:id="@+id/barrier"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:barrierDirection="left" />
+
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/guideline"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                app:layout_constraintGuide_end="0dp" />
+
+            <androidx.constraintlayout.widget.Barrier
+                android:id="@+id/barrier2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:barrierDirection="top" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </LinearLayout>
+
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
